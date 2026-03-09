@@ -1,6 +1,8 @@
 package com.telusko.myApp;
 
+import org.springframework.stereotype.Component;
 
+@Component
 public class Laptop {
 
 
