@@ -13,6 +13,13 @@ public class Dev {
     //     this.laptop = laptop;
     // }
 
+
+    // public void setLaptop(Laptop laptop){     // this is the setter injection
+    //     this.laptop = laptop;
+    // }
+
+
+
     public void build(){
         laptop.compile();
         System.out.println("Working on Spring Boot Project");
