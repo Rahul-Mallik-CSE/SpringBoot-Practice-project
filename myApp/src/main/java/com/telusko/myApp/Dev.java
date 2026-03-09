@@ -10,10 +10,10 @@ public class Dev {
     private  Laptop laptop ;
 
     // public Dev(Laptop laptop){     // this is the constructor injection
-    //     this.laptop = laptop;
+    //     this.laptop = laptop;     // in constructior injection the @Autowired is optional or its invoked by default
     // }
 
-
+    //@Autowired   // this is the method injection
     // public void setLaptop(Laptop laptop){     // this is the setter injection
     //     this.laptop = laptop;
     // }
